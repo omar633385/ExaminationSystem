@@ -1,0 +1,15 @@
+D:\dotnet\route\New folder\03.C# oop\Exam\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\route\New folder\03.C# oop\Exam\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.AssemblyInfoInputs.cache
+D:\dotnet\route\New folder\03.C# oop\Exam\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.AssemblyInfo.cs
+D:\dotnet\route\New folder\03.C# oop\Exam\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\dotnet\route\New folder\03.C# oop\Exam\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.exe
+D:\dotnet\route\New folder\03.C# oop\Exam\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.deps.json
+D:\dotnet\route\New folder\03.C# oop\Exam\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.runtimeconfig.json
+D:\dotnet\route\New folder\03.C# oop\Exam\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.dll
+D:\dotnet\route\New folder\03.C# oop\Exam\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.pdb
+D:\dotnet\route\New folder\03.C# oop\Exam\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.dll
+D:\dotnet\route\New folder\03.C# oop\Exam\ExaminationSystem\obj\Debug\net8.0\refint\ExaminationSystem.dll
+D:\dotnet\route\New folder\03.C# oop\Exam\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.pdb
+D:\dotnet\route\New folder\03.C# oop\Exam\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.genruntimeconfig.cache
+D:\dotnet\route\New folder\03.C# oop\Exam\ExaminationSystem\obj\Debug\net8.0\ref\ExaminationSystem.dll
+D:\dotnet\route\New folder\03.C# oop\Exam\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.sourcelink.json
