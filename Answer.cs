@@ -1,6 +1,6 @@
 ﻿namespace ExaminationSystem
 {
-    public class Answer
+    public class Answer:IComparable<Answer>
     {
         public int AnswerId { get; set; }
         public string AnswerText { get; set; }
@@ -10,9 +10,19 @@
             AnswerId = answerId;
             AnswerText = answerText;
         }
+        public Answer()
+        {
+            
+        }
         public override string ToString()
         {
             return $"{AnswerId}:{AnswerText}";
         }
+
+        public int CompareTo(Answer? other)
+        {
+             return this.AnswerId.CompareTo(other?.AnswerId);
+        }
     }
+
 }

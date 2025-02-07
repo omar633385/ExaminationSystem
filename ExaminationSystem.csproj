@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="ExamFolder\FinalExam.cs~RF76db130.TMP" />
+  </ItemGroup>
+
 </Project>
